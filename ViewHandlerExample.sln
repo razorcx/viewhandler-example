@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewHandler", "ViewHandler\ViewHandler.csproj", "{9B4A22BF-EB57-4246-9FA1-23D3A72EF984}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewHandlerExample", "ViewHandler\ViewHandlerExample.csproj", "{9B4A22BF-EB57-4246-9FA1-23D3A72EF984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
